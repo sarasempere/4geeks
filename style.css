@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    margin:0px 10px;
+    padding:0;
+
+}
+#maindiv {
+    background-color: lightgrey
+}
+
+h1{
+    text-align: center;
+    margin-top: 0;
+    background-color: whitesmoke;
+    font-size: 1.5em;
+}
+
+#contenedor {
+    margin: 0px auto;
+    width: 40%;
+    background-color:lightgrey
+}
+.post {
+   margin-top: 10px;
+   background-color: whitesmoke;
+
+}
+.postTitle {
+    float:left;
+    font-weight: bold;
+    font-size: 0.8em;
+    margin-left: 5px;
+}
+
+.postDate {
+    float: right;
+    color:lightgrey;
+    font-size: 0.8em;
+    margin-right: 5px;
+}
+.postFooter {
+    font-size: 0.6em;
+    
+}
+
+img {
+    width: 100%;
+    margin-bottom: 0px;
+    max-height: 30em;
+
+}
+
+span {
+    font-weight: bold;
+}
